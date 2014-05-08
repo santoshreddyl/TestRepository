@@ -1,3 +1,4 @@
 hi this is the new file need to be added in
 
 this is new line entered from master branch for testig the merge concept
+**Courage is not the absence of fear,but rather the judgement that something else is mode important than fear.
